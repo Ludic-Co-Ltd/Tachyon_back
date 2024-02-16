@@ -1,0 +1,2 @@
+class Zoom < ApplicationRecord
+end
